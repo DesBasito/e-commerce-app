@@ -1,0 +1,12 @@
+[submodule "services/customer"]
+	path = services/customer
+	url = https://github.com/DesBasito/e-commerce-customer-service.git
+[submodule "services/config-server"]
+	path = services/config-server
+	url = https://github.com/DesBasito/e-commerce-config-server.git
+[submodule "services/discovery"]
+	path = services/discovery
+	url = https://github.com/DesBasito/e-commerce-discovery-service.git
+[submodule "services/product"]
+	path = services/product
+	url = https://github.com/DesBasito/e-commerce-product-service.git
