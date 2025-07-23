@@ -16,3 +16,6 @@
 [submodule "services/payment"]
 	path = services/payment
 	url = https://github.com/DesBasito/e-commerce-payment-service.git
+[submodule "services/notification"]
+	path = services/notification
+	url = https://github.com/DesBasito/e-commerce-notification-service.git
