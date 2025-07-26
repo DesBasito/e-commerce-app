@@ -19,3 +19,6 @@
 [submodule "services/notification"]
 	path = services/notification
 	url = https://github.com/DesBasito/e-commerce-notification-service.git
+[submodule "services/gateway"]
+	path = services/gateway
+	url = https://github.com/DesBasito/e-commerce-gateway.git
